@@ -16,6 +16,6 @@ function CheckDevice(){
           });
      }
     else {
-       window.location.href = 'https://github.com/StephanieGdSantos/Jogo-da-Velha/raw/main/Win32/Debug/Jogo_Da_Velha.exe'
+       window.location.href = 'https://github.com/StephanieGdSantos/Jogo-da-Forca/raw/main/Jogo-da-Forca.rar'
      }
 }
